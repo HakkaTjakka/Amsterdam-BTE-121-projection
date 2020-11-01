@@ -1,5 +1,9 @@
 # Amsterdam-BTE-121-projection
 
+***
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.10.43.png)
+***
+
 Vanilla version (plain 1.12.2) of Amsterdam BTE 121 projection
 
 
@@ -42,3 +46,27 @@ https://www.facebook.com/Minecraft-Worldeditor-110607880303634/
 ![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/MAP/map_downsized/a.7.5.jpg)
 
 ![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/r.6193.-10533.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-10-26_13.47.31.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-10-26_13.47.47.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-10-26_13.48.35.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.11.17.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.12.27.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.13.34.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.14.15.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.16.12.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.16.46.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.17.24.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.18.07.png)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.20.24.png)
