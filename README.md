@@ -37,3 +37,8 @@ And many more for all the code.
 https://www.facebook.com/Minecraft-Worldeditor-110607880303634/
 ***
 
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/clipboard_smaller.jpg)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/MAP/map_downsized/a.7.5.jpg)
+
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/r.6193.-10533.png)
