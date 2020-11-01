@@ -36,3 +36,7 @@ And many more for all the code.
 ***
 https://www.facebook.com/Minecraft-Worldeditor-110607880303634/
 ***
+
+***
+![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/clipboard_smaller.jpg)
+***
