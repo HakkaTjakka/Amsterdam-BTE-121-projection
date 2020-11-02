@@ -12,6 +12,8 @@ LAT: NORTH=52.6409912109375 SOUTH=52.09442138671875 LON: WEST=4,658203125 EAST=5
 
 Download this and more worlds from Google Drive: https://drive.google.com/drive/folders/1RuIClj5k9hI7i3NJv5cLOhdohfn4S9tR
 
+(This BTE in plain vanilla already complete on there)
+
 
 Cubic Chunks Converter to convert: https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/tree/main/CubicChunksConverter
 
