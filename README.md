@@ -1,6 +1,10 @@
 # Amsterdam-BTE-121-projection
 
 ***
+https://www.youtube.com/watch?v=2zm-cQz_fbU
+
+
+***
 ![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.10.43.png)
 ***
 
