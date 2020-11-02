@@ -2,14 +2,11 @@
 
 ***
 https://www.youtube.com/embed/2zm-cQz_fbU
-***
 
 ***
 ![clipboard_small](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.10.43.png)
 ***
-
 Vanilla version (plain 1.12.2) of Amsterdam BTE 121 projection
-
 ***
 Area:
 LAT: NORTH=52.6409912109375 SOUTH=52.09442138671875 LON: WEST=4,658203125 EAST=5,1251220703125
