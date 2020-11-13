@@ -1,0 +1,3 @@
+realistic_explosions.zip IN %appdata%\.minecraft\saves\WORLDDIR\DATAPACKS
+"open" files in data, like: %appdata%\.minecraft\saves\WORLDDIR\data\functions\exxabite\tnt_up.mcfunction or %appdata%\.buildtheearth\saves\WORLDDIR\data\functions\exxabite\tnt_up.mcfunction
+or zip it and dump in DATAPACKS
