@@ -1,0 +1,201 @@
+[Main thread] [GuiMain] [00:55:26] [INFO   ] Loading internal data... 
+[Main thread] [GuiMain] [00:55:26] [INFO   ] Loading GUI... 
+[Main thread] [I18n] [00:55:26] [INFO   ] Loading builtin language en_us 
+[Main thread] [I18n] [00:55:26] [INFO   ] Loading builtin language en_us 
+[Main thread] [I18n] [00:55:26] [INFO   ] Loaded 59 builtin lang entries 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.general.exit_question=Are you sure you want to quit? 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.startup.lang_download_failed=Failed to download translation data for %s. Translations may not be available. 
+[Main thread] [I18n] [00:55:26] [INFO   ] info.java8=Note: This modpack requires Java 8 (JRE 8). This modpack WILL NOT RUN on newer and older versions. 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.prepare.download_forge_version_json=Unable to download forge version file from %s\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] status.interrupted=Installation has been stopped 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.startup.install_manifest_download_unknown=An unknown error occurred while downloading installer data.\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.general.install_done=Done! 
+[Main thread] [I18n] [00:55:26] [INFO   ] io.general.warn_low_memory=This computer has only %s of RAM. This modpack is likely to have performance issues or crash with this amount of memory. 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.no_minecraft=Error: Minecraft is not installed!\n\nInstall and run Minecraft at least once before installing this modpack. 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.libraries.download_io=Unable to download library %s\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.menu.help.about=About... 
+[Main thread] [I18n] [00:55:26] [INFO   ] question.prepare.newer_version_already_installed=The selected version is %s but newer version %s is already installed. Continuing will downgrade modpack version. Do you want to continue? 
+[Main thread] [I18n] [00:55:26] [INFO   ] status.prepare.downloading_pack_data=Downloading modpack data: %d%% 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.make_version.mkdir=Unable to create directory %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.checkbox.migrate_world=Migrate world from Twitch Launcher 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.startup.lang_load_error=An unknown error occurred while loading translations for %s. Translations may not be available. 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.menu.help.about.license_info.button=License information 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.window.main_text=Build The Earth Modpack Installer version %s 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.prepare.load_pack_manifest=Unable to load modpack manifest file\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.libraries.mkdir=Unable to create libraries directory\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.prepare.mkdir_mods=Unable to create mods directory in %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.button.install.install=Install 
+[Main thread] [I18n] [00:55:26] [INFO   ] status.libraries.installing=Installing %s 
+[Main thread] [I18n] [00:55:26] [INFO   ] status.mod_download.downloading_mod=Downloading mod %s: %d%% 
+[Main thread] [I18n] [00:55:26] [INFO   ] status.errored=Error 
+[Main thread] [I18n] [00:55:26] [INFO   ] status.mod_download.downloading_mod_info=Downloading mod info for project %s file %s 
+[Main thread] [I18n] [00:55:26] [INFO   ] status.launcher_profile.creating=Creating launcher profile 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.copy_overrides.packinfo_io_error=Unable to write data to %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] question.prepare.version_already_installed=Version %s is already installed. Do you want to continue? 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.button.install.done=Done 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.button.install.update=Update 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.menu.help.about.text=Build The Earth Modpack Installer\nby %s 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.make_version.make_json=Unable to create version file %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.general.unknown_general=An unknown error occurred.\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file 
+[Main thread] [I18n] [00:55:26] [INFO   ] status.make_version.creating=Creating launcher version 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.startup.install_manifest_download_ioerror=An error occurred while downloading installer data.\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.libraries.replace_invalid=Unable to replace invalid library %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.launcher_profile.load_profiles=Unable to open launcher profile %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] io.general.error_low_memory=This computer has only %s of RAM. This may not be enough to play this modpack. Minecraft may crash or hang if you attempt to run it. 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.general.warning_title=Build The Earth Modpack Installer 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.prepare.mkdir_temp=Unable to create temporary directory\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.window.title=Build The Earth Modpack Installer 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.general.error_title=Error 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.mod_download.mod_io_error=Unable to download mod %s\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.menu.help=Help 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.mod_download.mod_info_io_error=Unable to download mod information\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.copy_overrides.migrate_io_error=Unable to copy world from %s to %s\nThis may be caused by low amount of free space. \n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.launcher_profile.save_profiles=Unable to save launcher profile %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] status.libraries.downloading=Downloading %s: %d%% 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.copy_overrides.io_error=Unable to extract files from %s to %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.general.exit_title=Build The Earth Modpack Installer 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.prepare.make_version_mkdir_file_already_exists=Error: %s already exists and is not a directory! 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.prepare.clear_old_mods=Unable to remove mods from previous installation.\nClose Minecraft and any programs that may use these files and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.general.downloading_installer_manifest=Downloading installer data... 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.prepare.download_modpack_data=Unable to download modpack data from %s\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.no_mc_profile=Error: There is no Minecraft launcher profile!\n\nRun Minecraft launcher at least once before installing this modpack! 
+[Main thread] [I18n] [00:55:26] [INFO   ] ui.button.install.error=Error! 
+[Main thread] [I18n] [00:55:26] [INFO   ] status.copy_overrides.copying=Copying overrides 
+[Main thread] [I18n] [00:55:26] [INFO   ] error.general.unknown_io=An unknown IO error occurred.\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file 
+[Installer manifest downloader] [GuiMain] [00:55:27] [INFO   ] Starting version list download... 
+[Installer manifest downloader] [GuiMain] [00:55:27] [INFO   ] Loading remote language data 
+[Installer manifest downloader] [I18n] [00:55:27] [INFO   ] Loading language en_us from true 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] Successfully loaded remote language 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] Loading language en_us from https://bte-installer.s3.amazonaws.com/public/lang/en_us.properties 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] Successfully loaded remote language 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] Loaded 59 lang entries 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.general.exit_question=Are you sure you want to quit? 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.startup.lang_download_failed=Failed to download translation data for %s. Translations may not be available. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] info.java8=Note: This modpack requires Java 8 (JRE 8). This modpack WILL NOT RUN on newer and older versions. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.prepare.download_forge_version_json=Unable to download forge version file from %s\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] status.interrupted=Installation has been stopped 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.startup.install_manifest_download_unknown=An unknown error occurred while downloading installer data.\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.general.install_done=Done! 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] io.general.warn_low_memory=This computer has only %s of RAM. This modpack is likely to have performance issues or crash with this amount of memory. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.no_minecraft=Error: Minecraft is not installed!\n\nInstall and run Minecraft at least once before installing this modpack. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.libraries.download_io=Unable to download library %s\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.menu.help.about=About... 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] question.prepare.newer_version_already_installed=The selected version is %s but newer version %s is already installed. Continuing will downgrade modpack version. Do you want to continue? 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] status.prepare.downloading_pack_data=Downloading modpack data: %d%% 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.make_version.mkdir=Unable to create directory %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.checkbox.migrate_world=Migrate world from Twitch Launcher 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.startup.lang_load_error=An unknown error occurred while loading translations for %s. Translations may not be available. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.menu.help.about.license_info.button=License information 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.window.main_text=Build the Earth Modpack Installer version %s 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.prepare.load_pack_manifest=Unable to load modpack manifest file\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.libraries.mkdir=Unable to create libraries directory\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.prepare.mkdir_mods=Unable to create mods directory in %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.button.install.install=Install 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] status.libraries.installing=Installing %s 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] status.mod_download.downloading_mod=Downloading mod %s: %d%% 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] status.errored=Error 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] status.mod_download.downloading_mod_info=Downloading mod info for project %s file %s 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] status.launcher_profile.creating=Creating launcher profile 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.copy_overrides.packinfo_io_error=Unable to write data to %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] question.prepare.version_already_installed=Version %s is already installed. Do you want to continue? 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.button.install.done=Done 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.button.install.update=Update 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.menu.help.about.text=Build the Earth Modpack Installer\nby %s 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.make_version.make_json=Unable to create version file %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.general.unknown_general=An unknown error occurred.\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] status.make_version.creating=Creating launcher version 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.startup.install_manifest_download_ioerror=An error occurred while downloading installer data.\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.libraries.replace_invalid=Unable to replace invalid library %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.launcher_profile.load_profiles=Unable to open launcher profile %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] io.general.error_low_memory=This computer has only %s of RAM. This may not be enough to play this modpack. Minecraft may crash or hang if you attempt to run it. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.general.warning_title=Build the Earth Modpack Installer 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.prepare.mkdir_temp=Unable to create temporary directory\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.window.title=Build the Earth Modpack Installer 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.general.error_title=Error 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.mod_download.mod_io_error=Unable to download mod %s\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.menu.help=Help 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.mod_download.mod_info_io_error=Unable to download mod information\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.copy_overrides.migrate_io_error=Unable to copy world from %s to %s\nThis may be caused by low amount of free space. \n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.launcher_profile.save_profiles=Unable to save launcher profile %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] status.libraries.downloading=Downloading %s: %d%% 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.copy_overrides.io_error=Unable to extract files from %s to %s\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.general.exit_title=Build the Earth Modpack Installer 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.prepare.make_version_mkdir_file_already_exists=Error: %s already exists and is not a directory! 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.prepare.clear_old_mods=Unable to remove mods from previous installation.\nClose Minecraft and any programs that may use these files and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.general.downloading_installer_manifest=Downloading installer data... 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.prepare.download_modpack_data=Unable to download modpack data from %s\nMake sure you are connected to the internet and try again.\n\nIf the issue persists, please contact support, and provide error details from BuildTheEarth-installer.log file. 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.no_mc_profile=Error: There is no Minecraft launcher profile!\n\nRun Minecraft launcher at least once before installing this modpack! 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] ui.button.install.error=Error! 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] status.copy_overrides.copying=Copying overrides 
+[Installer manifest downloader] [I18n] [00:55:28] [INFO   ] error.general.unknown_io=An unknown IO error occurred.\n\nPlease contact support, and provide error details from BuildTheEarth-installer.log file 
+[Main thread] [GuiMain] [00:55:28] [INFO   ] Got version list with 3 versions 
+[Main thread] [GuiMain] [00:55:28] [INFO   ] Version: 1.6 
+[Main thread] [GuiMain] [00:55:28] [INFO   ] Version: 1.5 
+[Main thread] [GuiMain] [00:55:28] [INFO   ] Version: 1.4 
+[Main thread] [GuiMain] [00:55:28] [INFO   ] Detected 17116360704 bytes of memory, checking for modpack requirements... 
+[Main thread] [GuiMain] [00:55:28] [INFO   ] Considering memory match with 24000000000 bytes... 
+[Main thread] [GuiMain] [00:55:28] [INFO   ] Considering memory match with 12000000000 bytes... 
+[Main thread] [GuiMain] [00:55:28] [INFO   ] Found best match at 12G, with response "ok", render distance [8, 4], jvm args:
+-Xss4M -Xmx4G -XX:+DisableExplicitGC -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=30 -XX:G1HeapRegionSize=32M -Duser.country=US -Duser.language=en 
+[Install worker] [BTEInstall] [00:55:37] [INFO   ] Beginning client install 
+[Install worker] [BTEInstall] [00:55:37] [INFO   ] Scheduling pre-install tasks... 
+[Install Thread 0] [BTEInstall] [00:55:37] [INFO   ] Running pre-install checks... 
+[Install Thread 0] [BTEInstall] [00:55:37] [INFO   ] Found previous version 1.6 installed 
+[Main thread] [BTEInstall] [00:55:37] [INFO   ] Version 1.6 is already installed. Do you want to continue? 
+[Install Thread 0] [BTEInstall] [00:55:40] [INFO   ] Preparing installation... 
+[Install Thread 0] [BTEInstall] [00:55:40] [INFO   ] Creating mods directory... 
+[Install Thread 0] [BTEInstall] [00:55:40] [INFO   ] Downloading modpack file... 
+[Install Thread 0] [BTEInstall] [00:55:43] [INFO   ] Downloading forge version json... 
+[Install Thread 0] [BTEInstall] [00:55:44] [INFO   ] Creating tasks... 
+[Install Thread 0] [BTEInstall] [00:55:44] [INFO   ] Preparing installation done 
+[Install worker] [BTEInstall] [00:55:44] [INFO   ] Scheduling install tasks... 
+[Install Thread 2] [BTEInstall] [00:55:44] [INFO   ] Checking library net.minecraft:launchwrapper:1.12 
+[Install Thread 3] [BTEInstall] [00:55:44] [INFO   ] Checking library org.ow2.asm:asm-all:5.2 
+[Install Thread 1] [BTEInstall] [00:55:44] [INFO   ] Checking library net.minecraftforge:forge:1.12.2-14.23.5.2847 
+[Install Thread 4] [BTEInstall] [00:55:44] [INFO   ] Checking library org.jline:jline:3.5.1 
+[Install Thread 5] [BTEInstall] [00:55:44] [INFO   ] Checking library net.java.dev.jna:jna:4.4.0 
+[Install Thread 0] [BTEInstall] [00:55:44] [INFO   ] Checking library org.scala-lang:scala-actors-migration_2.11:1.1.0 
+[Install Thread 6] [BTEInstall] [00:55:44] [INFO   ] Checking library com.typesafe.akka:akka-actor_2.11:2.3.3 
+[Install Thread 7] [BTEInstall] [00:55:44] [INFO   ] Checking library com.typesafe:config:1.2.1 
+[Install Thread 2] [BTEInstall] [00:55:44] [INFO   ] Downloading library net.minecraft:launchwrapper:1.12 
+[Install Thread 5] [BTEInstall] [00:55:44] [INFO   ] Downloading library net.java.dev.jna:jna:4.4.0 
+[Install Thread 3] [BTEInstall] [00:55:44] [INFO   ] Checking library org.scala-lang:scala-compiler:2.11.1 
+[Install Thread 0] [BTEInstall] [00:55:44] [INFO   ] Checking library org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2 
+[Install Thread 7] [BTEInstall] [00:55:44] [INFO   ] Checking library org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2 
+[Install Thread 1] [BTEInstall] [00:55:44] [INFO   ] Downloading library net.minecraftforge:forge:1.12.2-14.23.5.2847 
+[Install Thread 4] [BTEInstall] [00:55:44] [INFO   ] Checking library org.scala-lang:scala-library:2.11.1 
+[Install Thread 0] [BTEInstall] [00:55:44] [INFO   ] Checking library org.scala-lang:scala-parser-combinators_2.11:1.0.1 
+[Install Thread 7] [BTEInstall] [00:55:44] [INFO   ] Checking library org.scala-lang:scala-reflect:2.11.1 
+[Install Thread 6] [BTEInstall] [00:55:44] [INFO   ] Checking library org.scala-lang:scala-swing_2.11:1.0.1 
+[Install Thread 0] [BTEInstall] [00:55:44] [INFO   ] Checking library org.scala-lang:scala-xml_2.11:1.0.2 
+[Install Thread 2] [BTEInstall] [00:55:44] [INFO   ] Checking library lzma:lzma:0.0.1 
+[Install Thread 6] [BTEInstall] [00:55:44] [INFO   ] Checking library net.sf.jopt-simple:jopt-simple:5.0.3 
+[Install Thread 2] [BTEInstall] [00:55:44] [INFO   ] Downloading library lzma:lzma:0.0.1 
+[Install Thread 0] [BTEInstall] [00:55:44] [INFO   ] Checking library java3d:vecmath:1.5.2 
+[Install Thread 4] [BTEInstall] [00:55:44] [INFO   ] Checking library net.sf.trove4j:trove4j:3.0.3 
+[Install Thread 0] [BTEInstall] [00:55:44] [INFO   ] Downloading library java3d:vecmath:1.5.2 
+[Install Thread 5] [BTEInstall] [00:55:44] [INFO   ] Checking library org.apache.maven:maven-artifact:3.5.3 
+[Install Thread 7] [BTEInstall] [00:55:44] [INFO   ] Making version json 
+[Install Thread 7] [BTEInstall] [00:55:44] [INFO   ] Downloading mod info 292243/2910783 
+[Install Thread 4] [BTEInstall] [00:55:44] [INFO   ] Downloading library net.sf.trove4j:trove4j:3.0.3 
+[Install Thread 6] [BTEInstall] [00:55:44] [INFO   ] Downloading library net.sf.jopt-simple:jopt-simple:5.0.3 
+[Install Thread 2] [BTEInstall] [00:55:44] [INFO   ] Downloading mod info 304171/2882811 
+[Install Thread 5] [BTEInstall] [00:55:44] [INFO   ] Downloading library org.apache.maven:maven-artifact:3.5.3 
+[Install Thread 3] [BTEInstall] [00:55:44] [INFO   ] Downloading mod info 32274/2888880 
+[Install Thread 7] [BTEInstall] [00:55:44] [INFO   ] Downloading mod CubicChunks-1.12.2-0.0.1055.0-SNAPSHOT-all.jar 
+[Install Thread 2] [BTEInstall] [00:55:44] [INFO   ] Downloading mod CubicWorldGen-1.12.2-0.0.115.0-SNAPSHOT-all.jar 
+[Install Thread 3] [BTEInstall] [00:55:44] [INFO   ] Downloading mod journeymap-1.12.2-5.7.0.jar 
+[Install Thread 6] [BTEInstall] [00:55:44] [INFO   ] Downloading mod info 292785/2915154 
+[Install Thread 0] [BTEInstall] [00:55:44] [INFO   ] Downloading mod info 302113/2847346 
+[Install Thread 6] [BTEInstall] [00:55:44] [INFO   ] Downloading mod VanillaFix-1.0.10-150.jar 
+[Install Thread 0] [BTEInstall] [00:55:44] [INFO   ] Downloading mod effortlessbuilding-1.12.2-2.16.jar 
+[Install Thread 4] [BTEInstall] [00:55:45] [INFO   ] Downloading mod info 278494/2845668 
+[Install Thread 4] [BTEInstall] [00:55:45] [INFO   ] Downloading mod foamfix-0.10.10-1.12.2.jar 
+[Install Thread 5] [BTEInstall] [00:55:45] [INFO   ] Downloading mod info 354143/2939052 
+[Install Thread 5] [BTEInstall] [00:55:45] [INFO   ] Downloading mod performant-1.12.2-1.10.jar 
+[Install Thread 2] [BTEInstall] [00:55:46] [INFO   ] Copying overrides 
+[Install Thread 2] [BTEInstall] [00:55:46] [INFO   ] Copy overrides: Skipping subtree /overrides/saves because saves directory already exists 
+[Install Thread 2] [BTEInstall] [00:55:46] [INFO   ] Changing render distance config option to "renderDistance:8" 
+[Install Thread 2] [BTEInstall] [00:55:46] [INFO   ] Changing cubic chunks vertical render distance config option to "    I:verticalCubeLoadDistance=4" 
+[Install Thread 2] [BTEInstall] [00:55:46] [INFO   ] Creating launcher profile 
+[Install worker] [BTEInstall] [00:55:48] [INFO   ] DONE 

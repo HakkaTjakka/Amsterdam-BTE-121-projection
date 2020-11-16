@@ -1,0 +1,16 @@
+setblock ~ ~ ~ tnt 0 replace
+setblock ~ ~-1 ~ glowstone 0 keep
+setblock ~ ~-2 ~ concrete 6 keep
+fill ~-2 ~-3 ~-2 ~-2 ~-3 ~-2 repeating_command_block 0 replace {Command:"function exxabite:spiral_north_07",auto:1b}
+
+setblock ~6 ~-4 ~-3 tnt 0 replace
+setblock ~6 ~-5 ~-3 glowstone 0 keep
+setblock ~6 ~-6 ~-3 concrete 6 keep
+
+setblock ~12 ~-8 ~-6 tnt 0 replace
+setblock ~12 ~-9 ~-6 glowstone 0 keep
+setblock ~12 ~-10 ~-6 concrete 6 keep
+
+setblock ~-6 ~4 ~3 tnt 0 replace
+setblock ~-6 ~3 ~3 glowstone 0 keep
+setblock ~-6 ~2 ~3 concrete 6 keep
