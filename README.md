@@ -1,5 +1,7 @@
-# Amsterdam-BTE-121-projection
+# Amsterdam-BTE-121-projection vanilla Minecraft 1.12.2
 
+***
+Cubic Chunks format on: https://github.com/HakkaTjakka/AMSTERDAM_BTE
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/Amsterdam-BTE-121-projection/blob/main/2020-11-01_21.10.43.png)](https://www.youtube.com/embed/2zm-cQz_fbU)
 (Click to play vid)
